@@ -30,6 +30,7 @@
 #import <MBProgressHUD+JDragon.h>
 #import <YYModel.h>
 #import <YYWebImage/YYWebImage.h>
+#import <MJRefresh/MJRefresh.h>
 
 // 工具类
 #import "BaseViewController.h"
@@ -39,7 +40,7 @@
 #import "MyTool.h"
 #import "UIView+Coordinate.h"
 #import "NSObject+Check.h"
-
+#import "DKJumpManager.h"
 
 // Include any system framework and library headers here that should be included in all compilation units.
 // You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.

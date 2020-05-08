@@ -27,6 +27,7 @@
 #import "CreditSpecView.h"
 #import "CreditFlowerModel.h"
 #import "DKMoreBtnsView.h"
+#import "GoodsListVC.h"
 
 @interface ViewController ()
 
@@ -68,7 +69,8 @@
 
 - (void)enterVideoVC
 {
-
+    GoodsListVC *listVC = [[GoodsListVC alloc] init];
+    [self.navigationController pushViewController:listVC animated:YES];
 }
 
 - (void)enterVideoListVC

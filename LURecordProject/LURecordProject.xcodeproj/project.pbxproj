@@ -12,6 +12,25 @@
 		84298C62219EA48200C43645 /* CreditFlowerModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 84298C61219EA48100C43645 /* CreditFlowerModel.m */; };
 		84298C65219EA4F200C43645 /* NSObject+Check.m in Sources */ = {isa = PBXBuildFile; fileRef = 84298C64219EA4F200C43645 /* NSObject+Check.m */; };
 		84298C68219EBBBE00C43645 /* DemoData.m in Sources */ = {isa = PBXBuildFile; fileRef = 84298C67219EBBBE00C43645 /* DemoData.m */; };
+		847BD49B225EE93F002EFB25 /* GoodsEvaluteVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 847BD476225EE93F002EFB25 /* GoodsEvaluteVC.m */; };
+		847BD49C225EE93F002EFB25 /* GoodsDetailVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 847BD477225EE93F002EFB25 /* GoodsDetailVC.m */; };
+		847BD49D225EE93F002EFB25 /* GoodsListVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 847BD47C225EE93F002EFB25 /* GoodsListVC.m */; };
+		847BD49E225EE93F002EFB25 /* GoodsSearchVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 847BD47D225EE93F002EFB25 /* GoodsSearchVC.m */; };
+		847BD49F225EE93F002EFB25 /* StarsView.m in Sources */ = {isa = PBXBuildFile; fileRef = 847BD482225EE93F002EFB25 /* StarsView.m */; };
+		847BD4A0225EE93F002EFB25 /* ChooserSpecView.m in Sources */ = {isa = PBXBuildFile; fileRef = 847BD486225EE93F002EFB25 /* ChooserSpecView.m */; };
+		847BD4A1225EE93F002EFB25 /* GoodsCommodityView.m in Sources */ = {isa = PBXBuildFile; fileRef = 847BD489225EE93F002EFB25 /* GoodsCommodityView.m */; };
+		847BD4A2225EE93F002EFB25 /* GoodsInfoCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 847BD48A225EE93F002EFB25 /* GoodsInfoCell.m */; };
+		847BD4A3225EE93F002EFB25 /* GoodsBuyToolBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 847BD48C225EE93F002EFB25 /* GoodsBuyToolBar.m */; };
+		847BD4A4225EE93F002EFB25 /* GoodsFilterBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 847BD48F225EE93F002EFB25 /* GoodsFilterBar.m */; };
+		847BD4A5225EE93F002EFB25 /* CommodityCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 847BD490225EE93F002EFB25 /* CommodityCell.m */; };
+		847BD4A6225EE93F002EFB25 /* GoodsListCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 847BD492225EE93F002EFB25 /* GoodsListCell.m */; };
+		847BD4A7225EE93F002EFB25 /* ChooseView.m in Sources */ = {isa = PBXBuildFile; fileRef = 847BD493225EE93F002EFB25 /* ChooseView.m */; };
+		847BD4A8225EE93F002EFB25 /* GoodsSearchBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 847BD494225EE93F002EFB25 /* GoodsSearchBar.m */; };
+		847BD4A9225EE93F002EFB25 /* GoodsEvaluteCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 847BD495225EE93F002EFB25 /* GoodsEvaluteCell.m */; };
+		847BD4AA225EE93F002EFB25 /* GoodsDetailCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 847BD496225EE93F002EFB25 /* GoodsDetailCell.m */; };
+		847BD4AB225EE93F002EFB25 /* GoodsFilterView.m in Sources */ = {isa = PBXBuildFile; fileRef = 847BD498225EE93F002EFB25 /* GoodsFilterView.m */; };
+		847BD4AE225EEABD002EFB25 /* DKJumpManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 847BD4AC225EEABD002EFB25 /* DKJumpManager.m */; };
+		847BD4B1225EEC00002EFB25 /* DKMoreButtonsView.m in Sources */ = {isa = PBXBuildFile; fileRef = 847BD4AF225EEC00002EFB25 /* DKMoreButtonsView.m */; };
 		84E067BD2187FFA0002C06E5 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 84E067BC2187FFA0002C06E5 /* AppDelegate.m */; };
 		84E067C02187FFA0002C06E5 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 84E067BF2187FFA0002C06E5 /* ViewController.m */; };
 		84E067C32187FFA0002C06E5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84E067C12187FFA0002C06E5 /* Main.storyboard */; };
@@ -69,6 +88,45 @@
 		84298C64219EA4F200C43645 /* NSObject+Check.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+Check.m"; sourceTree = "<group>"; };
 		84298C66219EBBBE00C43645 /* DemoData.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DemoData.h; sourceTree = "<group>"; };
 		84298C67219EBBBE00C43645 /* DemoData.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DemoData.m; sourceTree = "<group>"; };
+		847BD476225EE93F002EFB25 /* GoodsEvaluteVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GoodsEvaluteVC.m; sourceTree = "<group>"; };
+		847BD477225EE93F002EFB25 /* GoodsDetailVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GoodsDetailVC.m; sourceTree = "<group>"; };
+		847BD478225EE93F002EFB25 /* GoodsSearchVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GoodsSearchVC.h; sourceTree = "<group>"; };
+		847BD479225EE93F002EFB25 /* GoodsListVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GoodsListVC.h; sourceTree = "<group>"; };
+		847BD47A225EE93F002EFB25 /* GoodsDetailVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GoodsDetailVC.h; sourceTree = "<group>"; };
+		847BD47B225EE93F002EFB25 /* GoodsEvaluteVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GoodsEvaluteVC.h; sourceTree = "<group>"; };
+		847BD47C225EE93F002EFB25 /* GoodsListVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GoodsListVC.m; sourceTree = "<group>"; };
+		847BD47D225EE93F002EFB25 /* GoodsSearchVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GoodsSearchVC.m; sourceTree = "<group>"; };
+		847BD480225EE93F002EFB25 /* GoodsFilterBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GoodsFilterBar.h; sourceTree = "<group>"; };
+		847BD481225EE93F002EFB25 /* CommodityCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CommodityCell.h; sourceTree = "<group>"; };
+		847BD482225EE93F002EFB25 /* StarsView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StarsView.m; sourceTree = "<group>"; };
+		847BD483225EE93F002EFB25 /* GoodsSearchBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GoodsSearchBar.h; sourceTree = "<group>"; };
+		847BD484225EE93F002EFB25 /* ChooseView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChooseView.h; sourceTree = "<group>"; };
+		847BD485225EE93F002EFB25 /* GoodsListCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GoodsListCell.h; sourceTree = "<group>"; };
+		847BD486225EE93F002EFB25 /* ChooserSpecView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ChooserSpecView.m; sourceTree = "<group>"; };
+		847BD487225EE93F002EFB25 /* GoodsEvaluteCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GoodsEvaluteCell.h; sourceTree = "<group>"; };
+		847BD488225EE93F002EFB25 /* MemberCenterCommodityView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MemberCenterCommodityView.h; sourceTree = "<group>"; };
+		847BD489225EE93F002EFB25 /* GoodsCommodityView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GoodsCommodityView.m; sourceTree = "<group>"; };
+		847BD48A225EE93F002EFB25 /* GoodsInfoCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GoodsInfoCell.m; sourceTree = "<group>"; };
+		847BD48B225EE93F002EFB25 /* GoodsFilterView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GoodsFilterView.h; sourceTree = "<group>"; };
+		847BD48C225EE93F002EFB25 /* GoodsBuyToolBar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GoodsBuyToolBar.m; sourceTree = "<group>"; };
+		847BD48D225EE93F002EFB25 /* GoodsDetailCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GoodsDetailCell.h; sourceTree = "<group>"; };
+		847BD48E225EE93F002EFB25 /* StarsView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StarsView.h; sourceTree = "<group>"; };
+		847BD48F225EE93F002EFB25 /* GoodsFilterBar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GoodsFilterBar.m; sourceTree = "<group>"; };
+		847BD490225EE93F002EFB25 /* CommodityCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CommodityCell.m; sourceTree = "<group>"; };
+		847BD491225EE93F002EFB25 /* ChooserSpecView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChooserSpecView.h; sourceTree = "<group>"; };
+		847BD492225EE93F002EFB25 /* GoodsListCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GoodsListCell.m; sourceTree = "<group>"; };
+		847BD493225EE93F002EFB25 /* ChooseView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ChooseView.m; sourceTree = "<group>"; };
+		847BD494225EE93F002EFB25 /* GoodsSearchBar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GoodsSearchBar.m; sourceTree = "<group>"; };
+		847BD495225EE93F002EFB25 /* GoodsEvaluteCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GoodsEvaluteCell.m; sourceTree = "<group>"; };
+		847BD496225EE93F002EFB25 /* GoodsDetailCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GoodsDetailCell.m; sourceTree = "<group>"; };
+		847BD497225EE93F002EFB25 /* GoodsBuyToolBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GoodsBuyToolBar.h; sourceTree = "<group>"; };
+		847BD498225EE93F002EFB25 /* GoodsFilterView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GoodsFilterView.m; sourceTree = "<group>"; };
+		847BD499225EE93F002EFB25 /* GoodsCommodityView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GoodsCommodityView.h; sourceTree = "<group>"; };
+		847BD49A225EE93F002EFB25 /* GoodsInfoCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GoodsInfoCell.h; sourceTree = "<group>"; };
+		847BD4AC225EEABD002EFB25 /* DKJumpManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DKJumpManager.m; sourceTree = "<group>"; };
+		847BD4AD225EEABD002EFB25 /* DKJumpManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DKJumpManager.h; sourceTree = "<group>"; };
+		847BD4AF225EEC00002EFB25 /* DKMoreButtonsView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DKMoreButtonsView.m; sourceTree = "<group>"; };
+		847BD4B0225EEC00002EFB25 /* DKMoreButtonsView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DKMoreButtonsView.h; sourceTree = "<group>"; };
 		84E067B82187FFA0002C06E5 /* LURecordProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LURecordProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		84E067BB2187FFA0002C06E5 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		84E067BC2187FFA0002C06E5 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -175,6 +233,84 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		847BD473225EE926002EFB25 /* huajia+Goods */ = {
+			isa = PBXGroup;
+			children = (
+				84E0682721885734002C06E5 /* Controller */,
+				84E0683021885734002C06E5 /* Model */,
+				84E0683821885735002C06E5 /* View */,
+			);
+			path = "huajia+Goods";
+			sourceTree = "<group>";
+		};
+		847BD474225EE93E002EFB25 /* Goods */ = {
+			isa = PBXGroup;
+			children = (
+				847BD475225EE93F002EFB25 /* Controller */,
+				847BD47E225EE93F002EFB25 /* Model */,
+				847BD47F225EE93F002EFB25 /* View */,
+			);
+			path = Goods;
+			sourceTree = "<group>";
+		};
+		847BD475225EE93F002EFB25 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				847BD47A225EE93F002EFB25 /* GoodsDetailVC.h */,
+				847BD477225EE93F002EFB25 /* GoodsDetailVC.m */,
+				847BD47B225EE93F002EFB25 /* GoodsEvaluteVC.h */,
+				847BD476225EE93F002EFB25 /* GoodsEvaluteVC.m */,
+				847BD479225EE93F002EFB25 /* GoodsListVC.h */,
+				847BD47C225EE93F002EFB25 /* GoodsListVC.m */,
+				847BD478225EE93F002EFB25 /* GoodsSearchVC.h */,
+				847BD47D225EE93F002EFB25 /* GoodsSearchVC.m */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		847BD47E225EE93F002EFB25 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		847BD47F225EE93F002EFB25 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				847BD4B0225EEC00002EFB25 /* DKMoreButtonsView.h */,
+				847BD4AF225EEC00002EFB25 /* DKMoreButtonsView.m */,
+				847BD480225EE93F002EFB25 /* GoodsFilterBar.h */,
+				847BD481225EE93F002EFB25 /* CommodityCell.h */,
+				847BD482225EE93F002EFB25 /* StarsView.m */,
+				847BD483225EE93F002EFB25 /* GoodsSearchBar.h */,
+				847BD484225EE93F002EFB25 /* ChooseView.h */,
+				847BD485225EE93F002EFB25 /* GoodsListCell.h */,
+				847BD486225EE93F002EFB25 /* ChooserSpecView.m */,
+				847BD487225EE93F002EFB25 /* GoodsEvaluteCell.h */,
+				847BD488225EE93F002EFB25 /* MemberCenterCommodityView.h */,
+				847BD489225EE93F002EFB25 /* GoodsCommodityView.m */,
+				847BD48A225EE93F002EFB25 /* GoodsInfoCell.m */,
+				847BD48B225EE93F002EFB25 /* GoodsFilterView.h */,
+				847BD48C225EE93F002EFB25 /* GoodsBuyToolBar.m */,
+				847BD48D225EE93F002EFB25 /* GoodsDetailCell.h */,
+				847BD48E225EE93F002EFB25 /* StarsView.h */,
+				847BD48F225EE93F002EFB25 /* GoodsFilterBar.m */,
+				847BD490225EE93F002EFB25 /* CommodityCell.m */,
+				847BD491225EE93F002EFB25 /* ChooserSpecView.h */,
+				847BD492225EE93F002EFB25 /* GoodsListCell.m */,
+				847BD493225EE93F002EFB25 /* ChooseView.m */,
+				847BD494225EE93F002EFB25 /* GoodsSearchBar.m */,
+				847BD495225EE93F002EFB25 /* GoodsEvaluteCell.m */,
+				847BD496225EE93F002EFB25 /* GoodsDetailCell.m */,
+				847BD497225EE93F002EFB25 /* GoodsBuyToolBar.h */,
+				847BD498225EE93F002EFB25 /* GoodsFilterView.m */,
+				847BD499225EE93F002EFB25 /* GoodsCommodityView.h */,
+				847BD49A225EE93F002EFB25 /* GoodsInfoCell.h */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
 		84E067AF2187FFA0002C06E5 = {
 			isa = PBXGroup;
 			children = (
@@ -241,6 +377,8 @@
 				84E067FF2188497C002C06E5 /* GlobalConfig.m */,
 				84E0681C218855A0002C06E5 /* MyTool.h */,
 				84E0681D218855A0002C06E5 /* MyTool.m */,
+				847BD4AD225EEABD002EFB25 /* DKJumpManager.h */,
+				847BD4AC225EEABD002EFB25 /* DKJumpManager.m */,
 			);
 			path = Util;
 			sourceTree = "<group>";
@@ -282,9 +420,8 @@
 		84E0682621885734002C06E5 /* Class */ = {
 			isa = PBXGroup;
 			children = (
-				84E0682721885734002C06E5 /* Controller */,
-				84E0683021885734002C06E5 /* Model */,
-				84E0683821885735002C06E5 /* View */,
+				847BD474225EE93E002EFB25 /* Goods */,
+				847BD473225EE926002EFB25 /* huajia+Goods */,
 			);
 			path = Class;
 			sourceTree = "<group>";
@@ -293,7 +430,8 @@
 			isa = PBXGroup;
 			children = (
 			);
-			path = Controller;
+			name = Controller;
+			path = ../Controller;
 			sourceTree = "<group>";
 		};
 		84E0683021885734002C06E5 /* Model */ = {
@@ -480,11 +618,13 @@
 				"${SRCROOT}/Pods/Target Support Files/Pods-LURecordProject/Pods-LURecordProject-resources.sh",
 				"${PODS_ROOT}/IQKeyboardManager/IQKeyboardManager/Resources/IQKeyboardManager.bundle",
 				"${PODS_ROOT}/MBProgressHUD+JDragon/MBProgressHUD+JDragon/MBProgressHUD+JDragon.bundle",
+				"${PODS_ROOT}/MJRefresh/MJRefresh/MJRefresh.bundle",
 			);
 			name = "[CP] Copy Pods Resources";
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/IQKeyboardManager.bundle",
 				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/MBProgressHUD+JDragon.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/MJRefresh.bundle",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -516,18 +656,37 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				847BD4A3225EE93F002EFB25 /* GoodsBuyToolBar.m in Sources */,
+				847BD4A1225EE93F002EFB25 /* GoodsCommodityView.m in Sources */,
 				84298C68219EBBBE00C43645 /* DemoData.m in Sources */,
+				847BD4B1225EEC00002EFB25 /* DKMoreButtonsView.m in Sources */,
 				84E0688521885834002C06E5 /* BaseViewController.m in Sources */,
+				847BD49C225EE93F002EFB25 /* GoodsDetailVC.m in Sources */,
+				847BD4AA225EE93F002EFB25 /* GoodsDetailCell.m in Sources */,
+				847BD4A2225EE93F002EFB25 /* GoodsInfoCell.m in Sources */,
 				84298C65219EA4F200C43645 /* NSObject+Check.m in Sources */,
 				84E0688E21885D7D002C06E5 /* UIView+Coordinate.m in Sources */,
+				847BD4A6225EE93F002EFB25 /* GoodsListCell.m in Sources */,
+				847BD4A9225EE93F002EFB25 /* GoodsEvaluteCell.m in Sources */,
+				847BD4AB225EE93F002EFB25 /* GoodsFilterView.m in Sources */,
+				847BD4A0225EE93F002EFB25 /* ChooserSpecView.m in Sources */,
+				847BD49E225EE93F002EFB25 /* GoodsSearchVC.m in Sources */,
 				84E0688221885834002C06E5 /* BaseNavViewController.m in Sources */,
 				84298C5F219EA3A300C43645 /* DKMoreBtnsView.m in Sources */,
+				847BD4AE225EEABD002EFB25 /* DKJumpManager.m in Sources */,
+				847BD49F225EE93F002EFB25 /* StarsView.m in Sources */,
+				847BD49B225EE93F002EFB25 /* GoodsEvaluteVC.m in Sources */,
 				84E0681E218855A0002C06E5 /* MyTool.m in Sources */,
+				847BD4A7225EE93F002EFB25 /* ChooseView.m in Sources */,
 				84298C62219EA48200C43645 /* CreditFlowerModel.m in Sources */,
+				847BD4A8225EE93F002EFB25 /* GoodsSearchBar.m in Sources */,
 				84298C5C219EA39400C43645 /* CreditSpecView.m in Sources */,
 				84E068002188497C002C06E5 /* GlobalConfig.m in Sources */,
+				847BD4A4225EE93F002EFB25 /* GoodsFilterBar.m in Sources */,
 				84E067C02187FFA0002C06E5 /* ViewController.m in Sources */,
 				84E067CB2187FFA3002C06E5 /* main.m in Sources */,
+				847BD49D225EE93F002EFB25 /* GoodsListVC.m in Sources */,
+				847BD4A5225EE93F002EFB25 /* CommodityCell.m in Sources */,
 				84E067BD2187FFA0002C06E5 /* AppDelegate.m in Sources */,
 				84E068142188533D002C06E5 /* UIView+YYAdd.m in Sources */,
 			);
